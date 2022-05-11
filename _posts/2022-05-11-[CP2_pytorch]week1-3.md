@@ -1,14 +1,14 @@
 ---
-title: "Week1-2"
-excerpt: "CP2 pytorch week1-2 assignment"
+title: "Week1-3"
+excerpt: "CP2 pytorch week1-3 assignment"
 
 categories:
     - Blog
 toc: true
 toc_sticky: true
 
-data: 2022-05-10
-last_modified_at: 2022-05-10
+data: 2022-05-11
+last_modified_at: 2022-05-11
 ---
 
 NLG(Natural Language Generation)
