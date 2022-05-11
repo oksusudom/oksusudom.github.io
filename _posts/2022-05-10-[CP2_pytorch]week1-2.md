@@ -11,11 +11,8 @@ data: 2022-05-10
 last_modified_at: 2022-05-10
 ---
 
-NLU 
+NLU (Natural Language Understanding)
 ==========
-
-##
-NLU(Natural Language Understanding)
 
 언어를 "이해"하는 것
 
